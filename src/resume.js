@@ -88,6 +88,13 @@ export const projects = [
     blurb: 'Interning at the Fox Digital Consumer Group, my project was to implement from scratch a suite of internal tools to help out the API team. The main internal tool was a full stack web application that interfaced with the github API to track the status of their JIRA tickets. I built a back-end in Node, Express, and MongoDB, and a front-end in React and Redux.',
     images: []
   },
+  {
+    title: 'CAA Music Touring Data Strategy',
+    link: '',
+    githubLink: '',
+    blurb: "This one isn't quite a web dev job, but it was an interesting project I really enjoyed. At CAA my job was to research and recommend a data-acquisition strategy for the music touring department. I looked into API's provided by large and small companies, and compiled information on what data existed where. The deliverable from the end of my project will guide the agents in their pursiot to make more educated data-driven decisions about tour routing for their clients.",
+    images: []
+  },
 ]
 
 export const skills = [
