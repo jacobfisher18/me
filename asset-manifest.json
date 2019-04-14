@@ -1,0 +1,23 @@
+{
+  "main.css": "/me/static/css/main.ff9c8b97.chunk.css",
+  "main.js": "/me/static/js/main.00646e68.chunk.js",
+  "main.js.map": "/me/static/js/main.00646e68.chunk.js.map",
+  "runtime~main.js": "/me/static/js/runtime~main.7f73a39c.js",
+  "runtime~main.js.map": "/me/static/js/runtime~main.7f73a39c.js.map",
+  "static/js/2.08f4d5dd.chunk.js": "/me/static/js/2.08f4d5dd.chunk.js",
+  "static/js/2.08f4d5dd.chunk.js.map": "/me/static/js/2.08f4d5dd.chunk.js.map",
+  "index.html": "/me/index.html",
+  "precache-manifest.17f7852c2576cb072517d4e8ffcc801d.js": "/me/precache-manifest.17f7852c2576cb072517d4e8ffcc801d.js",
+  "service-worker.js": "/me/service-worker.js",
+  "static/css/main.ff9c8b97.chunk.css.map": "/me/static/css/main.ff9c8b97.chunk.css.map",
+  "static/media/App.css": "/me/static/media/Brandon_med.a989c5b7.otf",
+  "static/media/github.svg": "/me/static/media/github.1418f61f.svg",
+  "static/media/github_dark.svg": "/me/static/media/github_dark.55cf5128.svg",
+  "static/media/linkedin.svg": "/me/static/media/linkedin.d3b59b6b.svg",
+  "static/media/pic_1.png": "/me/static/media/pic_1.cc22cbb1.png",
+  "static/media/pic_2.png": "/me/static/media/pic_2.4124a2a8.png",
+  "static/media/profpic.png": "/me/static/media/profpic.5ce750b8.png",
+  "static/media/tutorfly_1.png": "/me/static/media/tutorfly_1.24ee054d.png",
+  "static/media/tutorfly_2.png": "/me/static/media/tutorfly_2.e43142f3.png",
+  "static/media/tutorfly_3.png": "/me/static/media/tutorfly_3.c9918717.png"
+}
