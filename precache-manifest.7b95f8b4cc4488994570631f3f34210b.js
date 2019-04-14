@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/me/static/media/pic_2.4124a2a8.png"
   },
   {
-    "revision": "190313b5a880e328c5cb",
-    "url": "/me/static/css/main.ff9c8b97.chunk.css"
+    "revision": "563880c4887952ed73ff",
+    "url": "/me/static/css/main.137acf8d.chunk.css"
   },
   {
     "revision": "66be97a19e235fa95a6c",
@@ -36,7 +36,7 @@ self.__precacheManifest = [
     "url": "/me/static/media/pic_1.cc22cbb1.png"
   },
   {
-    "revision": "190313b5a880e328c5cb",
+    "revision": "563880c4887952ed73ff",
     "url": "/me/static/js/main.00646e68.chunk.js"
   },
   {
@@ -52,10 +52,6 @@ self.__precacheManifest = [
     "url": "/me/static/media/tutorfly_3.c9918717.png"
   },
   {
-    "revision": "4147f3fd5f2e9b5eda890a67f4cd3f4f",
-    "url": "/me/static/media/Brandon_light.4147f3fd.otf"
-  },
-  {
     "revision": "a989c5b7849027ec20bcf8e716f2387f",
     "url": "/me/static/media/Brandon_med.a989c5b7.otf"
   },
@@ -64,11 +60,15 @@ self.__precacheManifest = [
     "url": "/me/static/media/Brandon_bld.fa11c3ca.otf"
   },
   {
+    "revision": "4147f3fd5f2e9b5eda890a67f4cd3f4f",
+    "url": "/me/static/media/Brandon_light.4147f3fd.otf"
+  },
+  {
     "revision": "c10f15f179ff812edfa4ab94cb5e7652",
     "url": "/me/static/media/Brandon_blk.c10f15f1.otf"
   },
   {
-    "revision": "42242a823ee40699b229e68b16d2658f",
+    "revision": "55037c14d8bd7dc26d24557c876a550e",
     "url": "/me/index.html"
   }
 ];
