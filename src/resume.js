@@ -10,7 +10,7 @@ export const experiences = [
     title: 'Software Development Intern',
     timeframe: 'September 2018 – Present',
     bullets: [
-      'Worked as a full-stack web developer, reporting directly to the CTO, on various web and native projects',
+      'Worked as a front-end software developer, reporting directly to the CTO, on various web and native projects',
       "Implemented a web analytics system through Google Analytics to track click and pageview events throughout the site in order to optimize the site's UI",
       'Developed a large part of the mobile application via React Native, including designing mockups for the screens and developing in an agile environment',
     ]
@@ -21,7 +21,6 @@ export const experiences = [
     timeframe: 'June 2018 – August 2018',
     bullets: [
       'Developed the preliminary data acquisition strategy for music data sources meant to inform agents’ decisions about tour routing for their clients',
-      'Collaborated with talent agents as well as members of the Business Technology Solutions team to understand project requirements and develop use cases',
       'Consulted for the agency by defining data source categories, identifying key assessment criteria, and providing recommendations of APIs and other data services to ingest',
     ]
   },
@@ -104,6 +103,7 @@ export const skills = [
   'React',
   'Redux',
   'React Native',
+  'GraphQL',
   'Node.js',
   'MongoDB',
   'Express.js',
@@ -113,6 +113,7 @@ export const skills = [
   'Asynchronous Computing',
   'REST APIs',
   'Front End Frameworks',
+  'Responsive Design',
 ]
 
 export const interests = [
