@@ -58,7 +58,7 @@ export const projects = [
     ],
   },
   {
-    title: 'Spotify Playlist Analyzer',
+    title: 'Spotify Playlist Analyzer (coming soon)',
     link: '',
     githubLink: 'https://github.com/jacobfisher18/playlist_analyzer',
     blurb: 'This personal project is a web app that integrates with the Spotify API to show you descriptive stats about your playlists. Use it to discover which of your playlists is the most “dancable,” or which tracks are the most popular.',
@@ -91,7 +91,7 @@ export const projects = [
     title: 'CAA Music Touring Data Strategy',
     link: '',
     githubLink: '',
-    blurb: "This one isn't quite a web dev job, but it was an interesting project I really enjoyed. At CAA my job was to research and recommend a data-acquisition strategy for the music touring department. I looked into API's provided by large and small companies, and compiled information on what data existed where. The deliverable from the end of my project will guide the agents in their pursiot to make more educated data-driven decisions about tour routing for their clients.",
+    blurb: "This one isn't quite a web dev job, but it was an interesting project I really enjoyed. At CAA my job was to research and recommend a data-acquisition strategy for the music touring department. I looked into API's provided by large and small companies, and compiled information on what data existed where. The deliverable from the end of my project will guide the agents in their pursuit to make more educated data-driven decisions about tour routing for their clients.",
     images: []
   },
 ]
