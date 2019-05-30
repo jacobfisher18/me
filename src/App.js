@@ -20,8 +20,9 @@ class App extends Component {
           <img className="pic" src={profpic} alt="Self"></img>
             <p className="name">JACOB FISHER</p>
           </div>
-          <p className="subtitle">FRONT-END SOFTWARE DEVELOPER</p>
-          <p className="summary">Currently interning at <a className="underlinedLink" href="https://www.tutorfly.org/">@Tutorfly</a> working on their mobile app.
+          <p className="subtitle">SOFTWARE DEVELOPER</p>
+          <p className="summary">Incoming software engineer at <a className="underlinedLink" href="https://www.ticketmaster.com/">@Ticketmaster</a>.
+            Currently interning at <a className="underlinedLink" href="https://www.tutorfly.org/">@Tutorfly</a> working on their mobile app.
             Previously interned at <a className="underlinedLink" href="https://www.fox.com/">@Fox</a> working with the API team 
             and <a className="underlinedLink" href="https://www.caa.com/">@CAA</a> with Business Technology Solutions. Very 
             recent <a className="underlinedLink" href="http://www.ucla.edu/">@UCLA</a> graduate looking for an awesome full time gig.</p>
