@@ -21,11 +21,11 @@ class App extends Component {
             <p className="name">JACOB FISHER</p>
           </div>
           <p className="subtitle">SOFTWARE DEVELOPER</p>
-          <p className="summary">Incoming software engineer at <a className="underlinedLink" href="https://www.ticketmaster.com/">@Ticketmaster</a>.
-            Currently interning at <a className="underlinedLink" href="https://www.tutorfly.org/">@Tutorfly</a> working on their mobile app.
-            Previously interned at <a className="underlinedLink" href="https://www.fox.com/">@Fox</a> working with the API team 
-            and <a className="underlinedLink" href="https://www.caa.com/">@CAA</a> with Business Technology Solutions. Very 
-            recent <a className="underlinedLink" href="http://www.ucla.edu/">@UCLA</a> graduate looking for an awesome full time gig.</p>
+          <p className="summary">Software engineer at <a className="underlinedLink" href="https://www.ticketmaster.com/">@Ticketmaster</a>.
+            Previously interned at <a className="underlinedLink" href="https://www.tutorfly.org/">@Tutorfly</a> working on their mobile
+             app, <a className="underlinedLink" href="https://www.fox.com/">@Fox</a> working with the API team, 
+            and <a className="underlinedLink" href="https://www.caa.com/">@CAA</a> with Business Technology Solutions. Proud graduate 
+            of <a className="underlinedLink" href="http://www.ucla.edu/">@UCLA</a>, class of 2019.</p>
           <div className="socialIcons">
             <a href="https://github.com/jacobfisher18"><img className="socialIcon" src={github} alt="github"></img></a>
             <a href="https://www.linkedin.com/in/jacobfisher18/"><img className="socialIcon rightmost" src={linkedin} alt="linkedin"></img></a>
